@@ -1,0 +1,10 @@
+hi from elevenBall,
+
+theres 2 ways, you can copy the externals to your puredata externals folder, or you can just put the .pd files in the same folder and run it.
+
+
+thank you, use it and abuse it.
+
+
+
+effective half life
